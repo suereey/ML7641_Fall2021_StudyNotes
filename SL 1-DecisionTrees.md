@@ -17,11 +17,11 @@
     - Candidate: a concept that you think might be the target concept
     - Testing: testing set
 - Decision tree expression:
-    - And: ![andexp]()
-    - Or: ![Orexp]()
-    - XOr (either one): ![xorexp]()
+    - And: ![andexp](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/1_andexpression.PNG)
+    - Or: ![Orexp](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/2_orexpression.PNG)
+    - XOr (either one): ![xorexp](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/3_xor.PNG)
     - Try to have OR problem instead of XOR (complext)
-        - ![complexity]()
+        - ![complexity](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/4_linearexponential.PNG)
 
 
 
