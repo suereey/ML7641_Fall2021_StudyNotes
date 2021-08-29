@@ -23,5 +23,12 @@
     - Try to have OR problem instead of XOR (complext)
         - ![complexity](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/4_linearexponential.PNG)
 
+- Algorithm: ID3
+    - Select best A (attribute) based on information gain.
+        - ![ID3]()
+    - ID3 bias: inductive bias
+        - ![ID3Bias]()
+
+- Decision tree continuous attributes
 
 
