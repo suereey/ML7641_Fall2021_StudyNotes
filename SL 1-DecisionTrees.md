@@ -25,10 +25,13 @@
 
 - Algorithm: ID3
     - Select best A (attribute) based on information gain.
-        - ![ID3]()
+        - ![ID3](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/5_ID3.PNG)
     - ID3 bias: inductive bias
-        - ![ID3Bias]()
+        - ![ID3Bias](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/6_ID3Bias.PNG)
 
-- Decision tree continuous attributes
-
+- Other consideration:
+    - Decision tree continuous attributes
+    - ![continousattribute](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/7_continousattribute.PNG)
+    - When to stop? 
+    - ![stop](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/screenshot/8_otherconsideration.PNG)
 
