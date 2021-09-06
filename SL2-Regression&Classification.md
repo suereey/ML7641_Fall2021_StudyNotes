@@ -25,3 +25,6 @@
     - gradient descent/delta rule (**unthresholded**)
 - Perceptron rule
     - ![prceptronrule]()
+- Gradient descent
+    - ![gradientdescent]()
+- Compare 2 rules:
