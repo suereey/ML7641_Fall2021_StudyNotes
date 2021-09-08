@@ -1,0 +1,1 @@
+youtube resource:https://www.youtube.com/watch?v=pqNCD_5r0IU&t=5871s
