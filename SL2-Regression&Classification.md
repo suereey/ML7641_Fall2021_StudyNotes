@@ -17,14 +17,14 @@
     - Not:
         - ![not](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/5_perceptron.PNG)
     - XOR:
-        - ![XOR]()
+        - ![XOR](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/6_perceptron.PNG)
 
 ## Perceptron traning
 - Given examples, find weights that map inputs to outputs.
     - Perceptron rule (**threshold**)
     - gradient descent/delta rule (**unthresholded**)
 - Perceptron rule
-    - ![prceptronrule]()
+    - ![prceptronrule](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/7_perceptron.PNG)
 - Gradient descent
-    - ![gradientdescent]()
+    - ![gradientdescent](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/8_perceptron.PNG)
 - Compare 2 rules:
