@@ -13,8 +13,8 @@
     - ![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/05_bias.PNG)
 - Curse of dimensionality
     - Higher dimension need much more data.
-    ![06]()
+    ![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/09.PNG)
 - Some other stuff
-    - ![07]()
+    - ![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/07_.PNG)
 - Summary
-![08]()
+![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/08_.PNG)
