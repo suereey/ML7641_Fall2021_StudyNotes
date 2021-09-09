@@ -31,14 +31,14 @@
     - ![compare](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/9_perceptron.PNG)
     - It is not a continous function, can not do differential. Change to continous -> Sigmoid function
 - Sigmoid function
-    - [sigmoid]()
+    - [sigmoid](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/10_sigmoid.PNG)
 - Neural network sketch
-    - [nnsketch]()
+    - [nnsketch](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/10_nn.PNG)
 - Optimize weight
-    - ![weight]()
+    - ![weight](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/11_weight.PNG)
 - Restriction bias
-    - ![bias01]()
+    - ![bias01](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/12_restrictionbias.PNG)
 - Preference bias
-    - ![bias02]()
+    - ![bias02](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/13_restrictionbias.PNG)
 - Summary
-![summary]()
+![summary](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/14_summary.PNG)
