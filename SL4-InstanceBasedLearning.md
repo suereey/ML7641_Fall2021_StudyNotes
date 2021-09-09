@@ -10,5 +10,11 @@
     ![03](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/03_.PNG)
     ![04](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/04._.PNG)
 - KNN bias
-    - ![05]()
+    - ![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL4/05_bias.PNG)
 - Curse of dimensionality
+    - Higher dimension need much more data.
+    ![06]()
+- Some other stuff
+    - ![07]()
+- Summary
+![08]()
