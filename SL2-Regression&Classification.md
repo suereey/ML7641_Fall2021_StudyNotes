@@ -28,3 +28,17 @@
 - Gradient descent
     - ![gradientdescent](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/8_perceptron.PNG)
 - Compare 2 rules:
+    - ![compare](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL2SL3_Screenshot/9_perceptron.PNG)
+    - It is not a continous function, can not do differential. Change to continous -> Sigmoid function
+- Sigmoid function
+    - [sigmoid]()
+- Neural network sketch
+    - [nnsketch]()
+- Optimize weight
+    - ![weight]()
+- Restriction bias
+    - ![bias01]()
+- Preference bias
+    - ![bias02]()
+- Summary
+![summary]()
