@@ -15,7 +15,7 @@
     - ![03](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/03_a.PNG)
     - The points that are far away from the decision boundary, and can't be used to descirbe the contours of that decision boundary, don't matter.
     - This is similar to KNN, except you've already done the work of figuring out which points actually matter. No need to keep all, throw some of them.
-    - ![03b]()
+    - ![03b](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/03_b.PNG)
 - What does the xi•xj mean? (transpose, dot product)
     - Projection of one to the other. That is a notion of **similarity**.
 ## SVMs: linearly married
@@ -23,3 +23,8 @@
 ![04](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/04.PNG)
 - Kernel function k(xi,xj): still represent similarity
     - inject domain knowledge into svm algorithm
+- Kernel function:
+    ![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/05.PNG)
+    - the Mercer Condition: it acts like distance/similarity
+## Summary
+![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/06.PNG)
