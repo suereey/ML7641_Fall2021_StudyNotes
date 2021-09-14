@@ -26,5 +26,7 @@
         - Example of combine simple model to a good one:
             - ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/08.PNG)
             - ![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/09.PNG)
+## Summary
+![summary](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/10.PNG)
        
 
