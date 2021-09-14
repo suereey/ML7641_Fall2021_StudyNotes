@@ -22,9 +22,9 @@
         - weak learner: A learner, no matter wht the distrbituino is over your data, will do better than chance when it tries to elarn labels on that data.  
             - What is does better than chance? no matter the data distribution, you are always going to have an **error rate** that's **less then 1/2**
         - ![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/05.PNG)
-        - ![07]()
+        - ![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/07.PNG)
         - Example of combine simple model to a good one:
-            - ![08]()
-            - ![09]()
+            - ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/08.PNG)
+            - ![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/09.PNG)
        
 
