@@ -12,4 +12,14 @@
 - instead of doing maximum, do minimum, them convert the problem into quatratic programming problem, which has a particular form. (maximize the alpha function)
     - ![02](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/02.PNG)
 - the data points for which the corresponding alpha is non-zero, those are support vectors.
-    - ![03]()
+    - ![03](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/03_a.PNG)
+    - The points that are far away from the decision boundary, and can't be used to descirbe the contours of that decision boundary, don't matter.
+    - This is similar to KNN, except you've already done the work of figuring out which points actually matter. No need to keep all, throw some of them.
+    - ![03b]()
+- What does the xi•xj mean? (transpose, dot product)
+    - Projection of one to the other. That is a notion of **similarity**.
+## SVMs: linearly married
+- The kernel trick 
+![04](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/04.PNG)
+- Kernel function k(xi,xj): still represent similarity
+    - inject domain knowledge into svm algorithm
