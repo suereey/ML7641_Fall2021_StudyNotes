@@ -23,5 +23,8 @@
             - What is does better than chance? no matter the data distribution, you are always going to have an **error rate** that's **less then 1/2**
         - ![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL5/05.PNG)
         - ![07]()
+        - Example of combine simple model to a good one:
+            - ![08]()
+            - ![09]()
        
 
