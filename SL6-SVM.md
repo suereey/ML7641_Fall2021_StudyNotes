@@ -28,3 +28,10 @@
     - the Mercer Condition: it acts like distance/similarity
 ## Summary
 ![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/06.PNG)
+
+
+## Some more boosting:
+- Boosting not always overfitting
+![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/08.PNG)
+- Quiz
+![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL6/07.PNG)
