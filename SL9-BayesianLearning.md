@@ -29,4 +29,7 @@
         - we have a uniform prior over our hypothesis
     - Meanining of the final eqn: given a bunch of data, your probability of particular hypothesis being corect, or being the best one (or the right one) is simply unfirom over all of the hypotheses that are in the virgin space. (This is consistent with the data that we are see)
 - What about noisy data?
-![05]()
+![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/05.PNG)
+![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/06.PNG)
+![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/07.PNG)
+    - Calcuate the mean square error and pick the smallest one (the 1 st one)
