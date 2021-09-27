@@ -20,4 +20,7 @@
         - P(L|S) = 0.25/(0.25+0.4) = 0.385
         - p(Th|L) = 0.2/0.25 (storm is independent)
 - Sampling form the Joint distribution
-    ![06]()
+    ![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL10/06.PNG)
+    ![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL10/07.PNG)
+    - Why it is a good idea to be abel to sample from a distribution?
+    ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL10/08.PNG)
