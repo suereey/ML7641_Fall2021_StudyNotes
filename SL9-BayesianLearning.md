@@ -33,3 +33,15 @@
 ![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/06.PNG)
 ![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/07.PNG)
     - Calcuate the mean square error and pick the smallest one (the 1 st one)
+- Minimum description length
+    - ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/08.PNG)
+
+    - quiz
+    ![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/09.PNG)
+    ![10](https://github.com/suereey/ML7641_Fall2021_StudyNotes/blob/main/Screenshot/SL9/10.PNG)
+
+## Bayesian Classfication
+![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/11.PNG)
+
+## Summary
+![12](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL9/12.PNG)
