@@ -12,7 +12,7 @@
 	- neural network x is weights minize error
 	- decision tree
 - Example of optimization
-![01]()
+![01](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/01.PNG)
 
 ## Optimization Approaches
 - Generate and test: small input space, complex function
@@ -23,10 +23,23 @@
 
 - Methods:
     - Hill climbing:
-        ![02]()
+        ![02](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/02.PNG)
         - Guess my word practice as an exmaple for hill climbing method. This game is suitable for hill climbing since it only have 1 global optimum.
-            ![03]()
+            ![03](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/03.PNG)
         - Random restart hill climbing
-            ![04]()
-            ![05]()
+            ![04](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/04.PNG)
+            ![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/05.PNG)
     - Simulated Annealing
+        - definition:
+            ![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/06.PNG)
+        - algorithm: **P(x, xt, T)**
+            - for this probablity function help to decide how to make a move
+            - the probability (current at x, and we are thinking to move to xt, and current temperature is T). 
+                - If the fitness of the new point >= old point, make a move (hill climbing); 
+                - else: calculate the value (e....) If two fitness value close to each other (diffrence close to zero), e0 ~ 1, make the move. If two fitness value very different, e0 ~ 0, no move.
+                - ![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/07.PNG)
+        - properties of simulated annealing
+            ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/08.PNG)
+    - Genetic Algorithm (GA)
+
+    - MIMIC
