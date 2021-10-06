@@ -54,3 +54,8 @@
     - unclear probability distribution: 
         - directly model distribution
         - successively refine model
+    - ![13](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/13.PNG)
+    - Pseudo code:
+        ![14](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/14.PNG)
+    - Estimate distribution
+        ![15](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/15.PNG)
