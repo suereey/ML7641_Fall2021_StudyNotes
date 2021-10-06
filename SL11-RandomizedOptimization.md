@@ -54,15 +54,22 @@
     - unclear probability distribution: 
         - directly model distribution
         - successively refine model
-    - ![13](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/13.PNG)
-    - Pseudo code:
-        ![14](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/14.PNG)
-    - Estimate distribution
-        ![15](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/15.PNG)
-    - Find dependency tree
-        ![16](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/16.PNG)
-        ![17](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/17.PNG)
-        ![18](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/18.PNG)
+- ![13](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/13.PNG)
+- Pseudo code:
+    ![14](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/14.PNG)
+- Estimate distribution
+    ![15](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/15.PNG)
+- Find dependency tree
+    ![16](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/16.PNG)
+    ![17](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/17.PNG)
+    ![18](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/18.PNG)
+- Back to Peseudo code:
+    ![19](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/19.PNG)
+- Quiz practice
+    ![20](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/20.PNG)
+- Practical matter
+![21](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/21.PNG)
+![22](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/22.PNG)
 
 ## Summary
-![26]()
+![23](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/23.PNG)
