@@ -41,5 +41,15 @@
         - properties of simulated annealing
             ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/08.PNG)
     - Genetic Algorithm (GA)
+        - ![09]()
+        - Example
+            ![10]()
+## Summary
+![11]()
 
-    - MIMIC
+## MIMIC
+- Mimic algorithms
+    - only point, no structure: convey structure
+    - unclear probability distribution: 
+        - directly model distribution
+        - successively refine model
