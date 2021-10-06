@@ -41,11 +41,12 @@
         - properties of simulated annealing
             ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/08.PNG)
     - Genetic Algorithm (GA)
-        - ![09]()
-        - Example
-            ![10]()
+        - ![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/09.PNG)
+        - ![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/10.PNG)
+        - Example, crossover
+            ![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/11.PNG)
 ## Summary
-![11]()
+![12](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/12.PNG)
 
 ## MIMIC
 - Mimic algorithms
