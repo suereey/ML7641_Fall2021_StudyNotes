@@ -59,3 +59,10 @@
         ![14](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/14.PNG)
     - Estimate distribution
         ![15](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/15.PNG)
+    - Find dependency tree
+        ![16](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/16.PNG)
+        ![17](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/17.PNG)
+        ![18](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/SL11/18.PNG)
+
+## Summary
+![26]()
