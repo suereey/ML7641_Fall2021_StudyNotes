@@ -42,3 +42,12 @@
     ![16](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/16.PNG)
     - Expected maximization (**EM**)
     ![17](https://github.com/suereey/ML7641_Fall2021_StudyNotes/blob/main/Screenshot/UL2/17.PNG)
+        - properties of EM algorithm
+        ![19](https://github.com/suereey/ML7641_Fall2021_StudyNotes/blob/main/Screenshot/UL2/19.PNG)
+        - stuck? random restart
+        
+- Clustering properties:
+![20](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/20.PNG)
+
+## Summary
+![23]()
