@@ -24,5 +24,15 @@
     ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/08.PNG)
     - k-means is good. prove: k-means in euclidean space
     ![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/09.PNG)
-    - k-means optimization
+    - k-means optimization (more like hill climbing)
     ![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/10.PNG)
+    ![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/11.PNG)
+    ![12](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/12.PNG)
+    - preperties of k-means clustering:
+        - ![13]()
+        - answer: a, b, and c (or d/e/f)
+        - Solution: Random restart
+- Soft clustering
+    - Problem with K-means, example the point "d"
+    ![14]()
+    - Solution: "d" can be shared by two groups by soft clustering
