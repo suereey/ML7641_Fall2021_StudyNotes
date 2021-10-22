@@ -48,6 +48,7 @@
         
 - Clustering properties:
 ![20](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/20.PNG)
-
+![21](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/21.PNG)
+![22](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/22.PNG)
 ## Summary
-![23]()
+![23](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/23.PNG)
