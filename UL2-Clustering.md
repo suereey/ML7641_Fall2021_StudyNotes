@@ -29,10 +29,16 @@
     ![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/11.PNG)
     ![12](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/12.PNG)
     - preperties of k-means clustering:
-        - ![13]()
+        - ![13](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/13.PNG)
         - answer: a, b, and c (or d/e/f)
         - Solution: Random restart
 - Soft clustering
     - Problem with K-means, example the point "d"
-    ![14]()
+    ![14](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/14.PNG)
     - Solution: "d" can be shared by two groups by soft clustering
+    - soft clustering
+    ![15](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/15.PNG)
+    - Make problem easier: break it into multiple hidden variables
+    ![16](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL2/16.PNG)
+    - Expected maximization (**EM**)
+    ![17](https://github.com/suereey/ML7641_Fall2021_StudyNotes/blob/main/Screenshot/UL2/17.PNG)
