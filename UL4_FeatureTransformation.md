@@ -13,6 +13,22 @@
 
 ## Linear transformation algorithm
 - Principla compoenets analysis
-![04](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/4.PNG)
+![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/5.PNG)
     - gloabal algorithm. global -> all directions, all new features find a big global constraint, namely that they must be mutually orthogonal
     - can be proved, pca gives best reconstruction. reconstruct -> given you all features, you can reconstruct all of the original data
+    - **eigen value**: throw away the feature with the smallest eigen value. **if the eigen value in some particular dimension is zero, means it provides no information whatsoever in the original space** 0 eigenvalue -> ignore
+
+- Independent components analysis
+![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/6.PNG)
+    - find a linear transformation of your feature space, into a new feature space, such that each of the individual new features are mutually independent. (mutual information = 0)
+    x: orginal
+
+    y: new feature
+
+    all pair y, mutual info = 0
+
+    mutual info between all of the features y and the orginal feature space x, as high as possible
+
+
+## Summary
+![12]()
