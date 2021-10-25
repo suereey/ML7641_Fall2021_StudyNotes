@@ -29,6 +29,18 @@
 
     mutual info between all of the features y and the orginal feature space x, as high as possible
 
+![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/7.PNG)
+
+- Compare ICA and PCA
+![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/8.PNG)
+![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/9.PNG)
+    - BSS: blind source seperation. ica good
+    - directional. ica good (pac see two direction the same, top right figure)
+    - face problem is a good exmaple that shows pac (force to find global feature); ica (find parts)
+
+## Alternatives: RCA (random component analysis)
+![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/10.PNG)
+![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/11.PNG)
 
 ## Summary
-![12]()
+![12](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/12.PNG)
