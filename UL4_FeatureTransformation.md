@@ -38,8 +38,10 @@
     - directional. ica good (pac see two direction the same, top right figure)
     - face problem is a good exmaple that shows pac (force to find global feature); ica (find parts)
 
-## Alternatives: RCA (random component analysis)
+## Alternatives: 
+- RCA (random component analysis)
 ![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/10.PNG)
+- LDA: linear discriminant analysis
 ![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL4/11.PNG)
 
 ## Summary
