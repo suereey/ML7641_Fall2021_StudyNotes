@@ -17,6 +17,14 @@
 ## Information between variables 
 - joint entropy
 - conditional entorpy
-![05]()
+![05](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/05.PNG)
 - mutal information: measure of the reduction of randomess of variable given the knowledge of some other varaibles
-![06]()
+![06](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/06.PNG)
+- Examples
+    ![07](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/07.PNG)
+    ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/08.PNG)
+
+## Kullback-leibler Divergence (ke Divergence)
+
+## Summary
+![10]()
