@@ -25,6 +25,6 @@
     ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/08.PNG)
 
 ## Kullback-leibler Divergence (ke Divergence)
-
+![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/09.PNG)
 ## Summary
-![10]()
+![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/UL5/10.PNG)
