@@ -21,3 +21,12 @@
 ![08](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/08.PNG)
 - Estimating Q from transition
 ![09](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/09.PNG)
+![11](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/11.PNG)
+- Learning incrementally
+![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/10.PNG)
+
+- Choosing actions
+![11]()
+
+## Summary
+![16]()
