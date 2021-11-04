@@ -25,8 +25,15 @@
 - Learning incrementally
 ![10](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/10.PNG)
 
+- Q learning converge
+![12](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/12.PNG)
 - Choosing actions
-![11]()
+![13](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/13.PNG)
+
+![14](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/14.PNG)
+
+- Greedy Exploration
+![15](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/15.PNG)
 
 ## Summary
-![16]()
+![16](https://raw.githubusercontent.com/suereey/ML7641_Fall2021_StudyNotes/main/Screenshot/RL1_RL2/16.PNG)
